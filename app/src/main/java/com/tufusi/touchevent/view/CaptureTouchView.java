@@ -55,6 +55,6 @@ public class CaptureTouchView extends View {
 
     @Override
     protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {
-        setMeasuredDimension(500, 300);
+        setMeasuredDimension(800, 400);
     }
 }
